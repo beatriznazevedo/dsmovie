@@ -18,8 +18,7 @@
   ##
   
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94022421/168498614-0813aa0a-4fd6-44c6-8c69-4ca22d86aa53.gif" />
+<img src="https://user-images.githubusercontent.com/94022421/168950012-e4526914-b703-4d4c-b568-ca3af4088df7.gif" />
 </div>
-
 
 <p align="center"><strong>Link</strong> para acessar o site na <strong>Netlify</strong>: "https://dsmovie-beatriznazevedo.netlify.app/"</p>
